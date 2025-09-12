@@ -119,10 +119,15 @@ test-app/
 ![Image](https://github.com/user-attachments/assets/8084478f-de18-4df8-872b-216199974781)
 ![Image](https://github.com/user-attachments/assets/6e27f912-0141-4705-b8d9-446877d18802)
 ![Image](https://github.com/user-attachments/assets/617b1d99-5dd8-4c6f-9ab3-1a94dd82233b)
-https://github.com/user-attachments/assets/ca6e8bfd-277a-4508-936e-1a777270ebd1
+
 
 ---
 
+## 📱 Demo Video
+
+https://github.com/user-attachments/assets/ca6e8bfd-277a-4508-936e-1a777270ebd1
+
+---
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
