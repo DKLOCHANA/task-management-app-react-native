@@ -128,6 +128,13 @@ test-app/
 https://github.com/user-attachments/assets/ca6e8bfd-277a-4508-936e-1a777270ebd1
 
 ---
+
+## 📱 Demo App
+
+https://expo.dev/accounts/lochanad23/projects/test-app/builds/b3d5f5aa-0cae-4731-8f2c-c1252d782293
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -143,5 +150,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙋‍♂️ Support
 
 If you have any questions or run into issues, please open an issue on GitHub.
+
 
 
